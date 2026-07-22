@@ -2,7 +2,7 @@
 
 Android client for [opencfg.xyz](https://opencfg.xyz). Supports SSH and V2Ray/Xray connections.
 
-[![Latest Release](https://img.shields.io/github/v/release/noahclanman/OpenCFG-Client-App-Public?label=latest%20release)](https://github.com/noahclanman/OpenCFG-Client-App-Public/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/noahclanman/OpenCFG-Client-App-Public?label=latest%20release&include_prereleases)](https://github.com/noahclanman/OpenCFG-Client-App-Public/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/noahclanman/OpenCFG-Client-App-Public/total)](https://github.com/noahclanman/OpenCFG-Client-App-Public/releases)
 
 ## Features
