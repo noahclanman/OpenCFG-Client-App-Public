@@ -26,7 +26,7 @@ Get your config from your [opencfg.xyz](https://opencfg.xyz) account, then in th
 
 ## Requirements
 
-- Android 8.0 or newer
+- Android 6.0 or newer
 - Package: `com.shinu.opencfg`
 
 ## Support
