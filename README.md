@@ -7,7 +7,8 @@ Android client for [opencfg.xyz](https://opencfg.xyz), with SSH and V2Ray/Xray c
 
 ## Features
 
-- SSH and V2Ray/Xray protocol support
+- SSH, V2Ray/Xray and WG protocol support
+- DNSTT and SlipStream support
 - Profile import via URI, file, QR code, or subscription link
 - Full-device VPN routing
 - Payload and TLS configuration
