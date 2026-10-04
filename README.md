@@ -125,8 +125,8 @@ Users are responsible for ensuring that their use of OpenCFG and any connected n
 * **Releases:** https://github.com/noahclanman/OpenCFG-Client-App-Public/releases
 * **Issues:** https://github.com/noahclanman/OpenCFG-Client-App-Public/issues
 * **Telegran:** https://t.me/nexcrypt_official
-* **AIO and Mulplexer Server1:** https://xm.opencfg.xyz/xvpn/shinu
-* **AIO and Mulplexer Server2:** https://zxc.opencfg.xyz/xvpn/obake
+* **AIO and Multiplexer Server1:** https://xm.opencfg.xyz/xvpn/shinu
+* **AIO and Multiplexer Server2:** https://zxc.opencfg.xyz/xvpn/obake
 
 ---
 
