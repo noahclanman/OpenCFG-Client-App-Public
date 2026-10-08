@@ -6,6 +6,10 @@
 [![Downloads](https://img.shields.io/github/downloads/noahclanman/OpenCFG-Client-App-Public/total?label=Downloads)](https://github.com/noahclanman/OpenCFG-Client-App-Public/releases)
 [![Android](https://img.shields.io/badge/Android-6.0%2B-3DDC84?logo=android\&logoColor=white)](#requirements)
 
+[![Support via PayPal](https://img.shields.io/badge/PayPal-Support-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/09274923910)
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/obakesenshi)
+[![Create VPN Account](https://img.shields.io/badge/Create%20VPN%20Account-SSH%20%7C%20V2Ray-00A8E8?style=for-the-badge\&logo=protonvpn\&logoColor=white)](https://opencfg.xyz)
+
 OpenCFG provides a simple way to import, manage, and connect to network configurations directly from Android.
 
 ## Features
