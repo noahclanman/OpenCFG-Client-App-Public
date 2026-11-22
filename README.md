@@ -161,5 +161,5 @@ Available features depend on server support and network conditions. Users are re
 - [Issue Tracker](https://github.com/noahclanman/OpenCFG-Client-App-Public/issues)
 - [Telegram Channel](https://t.me/xray_ehi_hub)
 - [Contact on Telegram](https://t.me/obakesenshi)
-- [Free V2ray Servers]([https://xm.opencfg.xyz/xvpn/shinu](https://github.com/noahclanman/free-xray-gcp))
-- [AIO and Multiplexer Server](https://shinu.opencfg.xyz/xvpn/obake)
+- [Free V2ray Servers](https://github.com/noahclanman/free-xray-gcp)
+- [AIO and Multiplexer Server](https://opencfg.xyz)
